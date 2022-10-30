@@ -34,4 +34,4 @@ const main= async()=>{
 //for verify;
 //npx hardhat verify --network goerli  0x76840719d0383c3A7e4C569326006D64cB4bAE16 300 
 //0xD4a33860578De61DBAbDc8BFdb98FD742fA7028e
-// 
+// notice that in verify you need to give the contructor arguments like above
