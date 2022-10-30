@@ -1,6 +1,11 @@
-# Sample Hardhat Project
+## Dynamic Nft Project (RTW3) Week 3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrate how to make dynamic nft using chainlink automation. Added randomness via VRF chainlink interface.
+Many comment and documentation exit inside bullbear deployment file for further deployment and verification.Project using {Dotenv} so you need to create your own secrets like wallet private key and api keys
+
+[Alchemy RTW3](https://docs.alchemy.com/docs/5-connect-apis-to-your-smart-contracts-using-chainlink)
+
+Use `npm install` to install dependencies
 
 Try running some of the following tasks:
 
